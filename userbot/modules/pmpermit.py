@@ -24,9 +24,11 @@ DEF_UNAPPROVED_MSG = (
     "╚════════════════════╝\n"
     "• Saya belum menyetujui anda untuk PM.\n"
     "• Tunggu sampai saya menyetujui PM anda.\n"
+    "• Jangan lupa join Channel saya ya link ada di bio.\n"
+    "• Follow My Instagram [XTA](https://www.instagram.com/rfqarf_) \n"
     "• Jangan Spam Chat atau anda akan otomatis diblokir.\n"
     "╔════════════════════╗\n"
-    "    𝗣𝗲𝘀𝗮𝗻 𝗢𝘁𝗼𝗺𝗮𝘁𝗶𝘀 𝗕𝘆 -𝗨𝘀𝗲𝗿𝗕𝗼𝘁\n"
+    "    𝗣𝗲𝘀𝗮𝗻 𝗢𝘁𝗼𝗺𝗮𝘁𝗶𝘀 𝗕𝘆 -𝐗𝐓𝐀𝐍 𝐁𝐎𝐓\n"
     "╚════════════════════╝\n"
 )
 
